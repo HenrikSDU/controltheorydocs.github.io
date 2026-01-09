@@ -1,7 +1,5 @@
-theme: jekyll-theme-minimal
 title: Control Theory Docs
+remote_theme: just-the-docs/just-the-docs
 
-header_pages: 
-  - index.md
-  - about.md
-  - references.md
+# Optional: enable search
+search_enabled: true
