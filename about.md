@@ -1,6 +1,6 @@
 ---
 title: About
-nav_order: 2
+nav_order: 3
 ---
 # About
 Hi, I'm Henrik, does adding this site work?

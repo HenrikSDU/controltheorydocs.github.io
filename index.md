@@ -16,9 +16,14 @@ Planned content (For now):
 - Modern Control Theory
     - State-Feedback Controllers
     - Observers
+    - Optimal Control
     - and more
 
 - Sensor Fusion and Filtering
+    - Kalman-Filtering
+
+- Useful & Advanced Controllers
+    - ADRC 
 
 
 - My courses this semester in control
