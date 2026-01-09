@@ -2,6 +2,7 @@
 title: Modeling of Systems
 nav_order: 3
 ---
+# Modeling of Systems
 In order to control a system, one needs to understand how a system behaves. This can be done best by the means of mathematical models of the system/plant that is to be controlled.
 
 In control engineering there exist two main approaches to obtaining models of plants:
