@@ -11,6 +11,7 @@ Planned content (For now):
     - State Space in Time-Domain
 - Classical Control Theory
     - PID
+    - Types of Systems and Steady-State Errors
     - Bode Plots
     - and more
 - Modern Control Theory
