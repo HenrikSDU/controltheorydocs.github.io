@@ -1,6 +1,7 @@
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 title: Control Theory Docs
 
 header_pages: 
   - index.md
   - about.md
+  - references.md
