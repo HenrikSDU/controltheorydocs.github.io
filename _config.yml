@@ -11,4 +11,5 @@ kramdown:
 
 just_the_docs:
   includes:
-    head: mathjax.html
+    head: 
+    - mathjax.html
